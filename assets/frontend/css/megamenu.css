@@ -1,6 +1,6 @@
 .megamenu{margin-bottom:0px;padding:0;width:100%;list-style:none;display:inline-block;position:relative;font-family:Calibri,Arial;font-size:15px}
 .megamenu li{margin-bottom:-6px;display:inline}
-.megamenu>li>a{float:left;padding:15px 0px;margin:0 3em 0 0;text-decoration:none;text-transform:capitalize;font-size:1.1em;font-weight:700; -webkit-transition: all 0.3s ease-in-out;text-transform:uppercase;
+.megamenu>li>a{float:left;padding:15px 0px 10px 0;margin:0 3em 0 0;text-decoration:none;text-transform:capitalize;font-size:1.1em;font-weight:700; -webkit-transition: all 0.3s ease-in-out;text-transform:uppercase;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;

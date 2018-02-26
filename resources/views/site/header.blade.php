@@ -7,8 +7,8 @@
     </div>
     <ul class="header-in col-lg-3 col-sm-3 col-xs-3">
         <li>
-            <img src="">
-            <span><a href="cart.html">Giỏ hàng: 3</a></span>
+
+            <span><a href="cart.html"><i class="cart_shop img-responsive"></i><p class="total_product_cart" style="color:orange ;">(3)</p></a></span>
         </li>
 
     </ul>
@@ -21,19 +21,19 @@
     <div class="header-top-on col-md-7">
         <ul class="social-in">
             <li class="shop-create col-md-4">
-                <i></i>
-                <b>Mua hàng:</b>
-                <p>Đơn giản nhất</p>
+                <i class="icon_header"></i>
+                <b class="hidden_mobile">Mua hàng:</b>
+                <p class="hidden_mobile">Đơn giản nhất</p>
             </li>
             <li class="shop-transfer col-md-4">
-                <i></i>
-                <b>Ship hàng:</b>
-                <p>Giao hàng sớm nhất</p>
+                <i class="icon_header"></i>
+                <b class="hidden_mobile">Ship hàng:</b>
+                <p class="hidden_mobile">Giao hàng sớm nhất</p>
             </li>
             <li class="shop-diversity col-md-4">
-                <i></i>
-                <b>Sản phẩm:</b>
-                <p>Đủ các mặt hàng</p>
+                <i class="icon_header"></i>
+                <b class="hidden_mobile">Sản phẩm:</b>
+                <p class="hidden_mobile">Đủ các mặt hàng</p>
             </li>
         </ul>
     </div>

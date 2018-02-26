@@ -310,3 +310,11 @@ table.list-pay tr td {
     height: 29px;
     width: 48px;
 }
+.cart_shop {
+    background: rgba(0, 0, 0, 0) url(../img/site/icon.png) no-repeat scroll -140px 8px;
+    display: inline-block;
+    float: left;
+    height: 64px;
+    width: 59px;
+    position: relative;
+}
