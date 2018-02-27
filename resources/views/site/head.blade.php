@@ -1,5 +1,5 @@
 <head>
-    <title>Mihstore A Ecommerce Category Flat Bootstarp Resposive Website Template | Home :: w3layouts</title>
+    <title>ShopCuaTui</title>
     <link href="assets/frontend/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="assets/frontend/js/jquery.min.js"></script>

@@ -445,7 +445,7 @@ text-decoration:underline;
 	background:#fcfcfc;
 	border: 1px solid #D9D9D9;
 	position:relative;
-	min-height: 355px;
+	min-height: 365px;
 }
 .pre{
 	/*background:#e8e8e8;*/
@@ -469,8 +469,8 @@ text-decoration:underline;
 }
 .five{
 	position:absolute;
-	top:39%;
-	left:6%;
+	top:0%;
+	right:0%;
 }
 .five h6{
 	color: #fff;
@@ -948,7 +948,7 @@ a.cart-an:hover{
 .nbs-flexisel-container {
 	position: relative;
 	max-width: 100%;
-	  min-height:370px;
+	  /*min-height:370px;*/
 }
 .nbs-flexisel-ul {
 	position: relative;
@@ -966,7 +966,7 @@ a.cart-an:hover{
 	float: left;
 	margin:0px;
 	padding:0px;
-	
+
 	position: relative;
 	line-height: 0px;
 }
@@ -1744,6 +1744,7 @@ ul.header-in li a {
 		float: left;
 		height: 30px;
 		width: 34px;
+		margin-left: 5px;
 	}
 ul.social-in li  i.ic{
 	background-position: -36px -6px;

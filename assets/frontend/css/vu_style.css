@@ -318,3 +318,68 @@ table.list-pay tr td {
     width: 59px;
     position: relative;
 }
+.bottom-grid-top:hover{
+    border: 1px solid #fe6d01;
+}
+.flexiselDemo1 li{
+    margin: 0 5px;
+
+}
+.pre1{
+    /*background:#e8e8e8;*/
+    /*padding: 0.5em;*/
+    min-height: 108px;
+    float: left;
+}
+.pre1 p{
+
+    color:#818181;
+    font-size: 1.1em;
+    font-weight: 700;
+    padding-bottom: 25px;
+}
+
+.pre1 span{
+    /*float:right;*/
+    color:#f02b63;
+    font-size:1.3em;
+    font-weight: 700;
+    display:block;
+}
+.bottom-grid-top1{
+    margin:0 10px;
+}
+.share h3{
+    color: #7db122;
+    font-size: 1.4em;
+    font-weight: 600;
+    padding: 0 0 0.5em;
+}
+.content-bottom-content-view{
+    background: #f9f9f9;
+    border-radius: 5px;
+    padding: 0.8em;
+    margin: 0 0 1em;
+}
+.content-bottom-grid{
+    padding: 2em 0 0;
+}
+.splq h3{
+    color: #7db122;
+    font-size: 1.4em;
+    font-weight: 600;
+    padding: 0 0 0.5em;
+}
+.splq{
+    margin-top: 10px;
+}
+.five1 h6{
+    color: #fff;
+    background: #7db122;
+    font-size: 14px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    padding: 0.85em 0 0;
+    text-align: center;
+}

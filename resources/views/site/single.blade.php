@@ -76,44 +76,50 @@
 				</div>
 			</div>
 			<div class="clearfix"> </div>
-			<ul id="flexiselDemo1">
-				<li><img src="assets/frontend/img/site/banner.jpg" /><div class="grid-flex"><a href="#">Lorem</a><p>Rs 850</p></div></li>
-				<li><img src="assets/frontend/img/site/pi1.jpg" /><div class="grid-flex"><a href="#">Amet</a><p>Rs 850</p></div></li>
-				<li><img src="assets/frontend/img/site/pi2.jpg" /><div class="grid-flex"><a href="#">Simple</a><p>Rs 850</p></div></li>
-				<li><img src="assets/frontend/img/site/pi3.jpg" /><div class="grid-flex"><a href="#">Text</a><p>Rs 850</p></div></li>
-				<li><img src="assets/frontend/img/site/pi4.jpg" /><div class="grid-flex"><a href="#">Sit</a><p>Rs 850</p></div></li>
-			</ul>
-			<script type="text/javascript">
-                $(window).load(function() {
-                    $("#flexiselDemo1").flexisel({
-                        visibleItems: 5,
-                        animationSpeed: 1000,
-                        autoPlay: true,
-                        autoPlaySpeed: 3000,
-                        pauseOnHover: true,
-                        enableResponsiveBreakpoints: true,
-                        responsiveBreakpoints: {
-                            portrait: {
-                                changePoint:480,
-                                visibleItems: 1
-                            },
-                            landscape: {
-                                changePoint:640,
-                                visibleItems: 2
-                            },
-                            tablet: {
-                                changePoint:768,
-                                visibleItems: 3
-                            }
-                        }
-                    });
+			<div class="col-md-12">
+				<div class="share col-md-6">
+					<h3>Thông Tin Thanh Toán</h3>
+					<div class="content-bottom-content-view ltab tab3">
+						<p><span style="font-size:18px"><strong>1</strong></span>. Tài khoản <span style="color:#0000FF"><span style="font-size:18px"><strong>Vietcombank</strong></span></span> Số TK:<span style="color:#FF0000"><strong><span style="font-size:18px"> 0301000335819</span></strong></span></p>
 
-                });
-			</script>
-			<script type="text/javascript" src="assets/frontend/js/jquery.flexisel.js"></script>
-			<!---->
+						<p>Ngân hàng TMCP Ngoại Thương Việt Nam Vietcombank, chi nhánh Chương Dương,Hà Nội.</p>
 
-			<!---->
+						<p>Chủ tài khoản: <strong>Trương Thị Hương Giang</strong></p>
+
+						<p>&nbsp;</p>
+
+						<p><span style="font-size:18px"><strong>2</strong></span>. Tài khoản <span style="color:#0000FF"><span style="font-size:18px"><strong>Techcombank </strong></span></span>Số TK: <span style="font-size:18px"><span style="color:rgb(255, 0, 0)"><strong>10824190363016</strong></span></span></p>
+
+						<p>Ngân hàng Techcombank chi nhánh Lý Thường Kiệt, Hà Nội.</p>
+
+						<p>Chủ tài khoản: <strong>Trương Thị Hương Giang</strong></p>
+
+					</div>
+				</div>
+				<div class="content-bottom-grid col-md-6">
+					<h3>Thông Tin Vận Chuyển</h3>
+					<div class="latest-grid">
+						<div class="content-bottom-content-view ltab tab2">
+							<p><strong>NHẬN HÀNG</strong></p>
+
+							<p>Sau 2-4 ngày bạn đặt hàng, sản phẩm bạn mua sẽ được giao tận tay bạn ở nhà hoặc bất cứ địa điểm nào bạn muốn trong giờ hành chính (Từ 8h sáng đến 17h chiều).</p>
+
+							<p><strong>THANH TOÁN</strong><br>
+								<strong>1.</strong> Thanh toán bằng hình thức chuyển khoản.<br>
+								<strong>2.</strong> Thanh toán tại nhà (Khi nhận được hàng bạn chỉ cần gửi tiền cho người giao hàng vừa tiết kiệm thời gian vừa an toàn)<br>
+								+ Địa chỉ: Số nhà 37 - tổ 6- Lệ Mật - Việt Hưng - Long Biên - Hà Nội<br>
+								+ Liên hệ: <span style="font-size:18px"><span style="color:#FF0000"><strong>0985.10.10.26 -&nbsp; 0903.187.988&nbsp;</strong></span></span></p>
+
+							<p><strong>PHÍ VẬN CHUYỂN:</strong><br>
+								<strong>1.</strong> Nội thành Hà Nội: 20.000 đ<br>
+								<strong>2. </strong>Ngoại thành và Các tỉnh khác :&nbsp; 30.000 đ.</p>
+
+						</div>
+						<div class="clearfix"> </div>
+					</div>
+				</div>
+			</div>
+
 		</div>
 		<div class="col-md-3 col-md">
 			<div class=" possible-about">
@@ -196,29 +202,96 @@
 				<!-- script -->
 			</div>
 			<div class="content-bottom-grid">
-				<h3>Thông Tin Vận Chuyển</h3>
-				<div class="latest-grid">
-					<div class="content-bottom-content-view ltab tab2">
-						<p><strong>NHẬN HÀNG</strong></p>
-
-						<p>Sau 2-4 ngày bạn đặt hàng, sản phẩm bạn mua sẽ được giao tận tay bạn ở nhà hoặc bất cứ địa điểm nào bạn muốn trong giờ hành chính (Từ 8h sáng đến 17h chiều).</p>
-
-						<p><strong>THANH TOÁN</strong><br>
-							<strong>1.</strong> Thanh toán bằng hình thức chuyển khoản.<br>
-							<strong>2.</strong> Thanh toán tại nhà (Khi nhận được hàng bạn chỉ cần gửi tiền cho người giao hàng vừa tiết kiệm thời gian vừa an toàn)<br>
-							+ Địa chỉ: Số nhà 37 - tổ 6- Lệ Mật - Việt Hưng - Long Biên - Hà Nội<br>
-							+ Liên hệ: <span style="font-size:18px"><span style="color:#FF0000"><strong>0985.10.10.26 -&nbsp; 0903.187.988&nbsp;</strong></span></span></p>
-
-						<p><strong>PHÍ VẬN CHUYỂN:</strong><br>
-							<strong>1.</strong> Nội thành Hà Nội: 20.000 đ<br>
-							<strong>2. </strong>Ngoại thành và Các tỉnh khác :&nbsp; 30.000 đ.</p>
-
+					<h3>Best Sellers</h3>
+					<div class="latest-grid">
+						<div class="news">
+							<a href="single.html"><img class="img-responsive" src="assets/frontend/img/site/si.jpg" title="name" alt=""></a>
+						</div>
+						<div class="news-in">
+							<h6><a href="single.html">Product name here</a></h6>
+							<p>Description Lorem ipsum </p>
+							<ul>
+								<li>Price: <span>$110</span> </li><b>|</b>
+								<li>Country: <span>US</span></li>
+							</ul>
+						</div>
+						<div class="clearfix"> </div>
 					</div>
-					<div class="clearfix"> </div>
+					<div class="latest-grid">
+						<div class="news">
+							<a href="single.html"><img class="img-responsive" src="assets/frontend/img/site/si1.jpg" title="name" alt=""></a>
+						</div>
+						<div class="news-in">
+							<h6><a href="single.html">Product name here</a></h6>
+							<p>Description Lorem ipsum </p>
+							<ul>
+								<li>Price: <span>$110</span> </li><b>|</b>
+								<li>Country: <span>US</span></li>
+							</ul>
+						</div>
+						<div class="clearfix"> </div>
+					</div>
+					<div class="latest-grid">
+						<div class="news">
+							<a href="single.html"><img class="img-responsive" src="assets/frontend/img/site/si.jpg" title="name" alt=""></a>
+						</div>
+						<div class="news-in">
+							<h6><a href="single.html">Product name here</a></h6>
+							<p>Description Lorem ipsum</p>
+							<ul>
+								<li>Price: <span>$110</span> </li><b>|</b>
+								<li>Country: <span>US</span></li>
+							</ul>
+						</div>
+						<div class="clearfix"> </div>
+					</div>
+					<div class="latest-grid">
+						<div class="news">
+							<a href="single.html"><img class="img-responsive" src="assets/frontend/img/site/si.jpg" title="name" alt=""></a>
+						</div>
+						<div class="news-in">
+							<h6><a href="single.html">Product name here</a></h6>
+							<p>Description Lorem ipsum </p>
+							<ul>
+								<li>Price: <span>$110</span> </li><b>|</b>
+								<li>Country: <span>US</span></li>
+							</ul>
+						</div>
+						<div class="clearfix"> </div>
+					</div>
+					<div class="latest-grid">
+						<div class="news">
+							<a href="single.html"><img class="img-responsive" src="assets/frontend/img/site/si1.jpg" title="name" alt=""></a>
+						</div>
+						<div class="news-in">
+							<h6><a href="single.html">Product name here</a></h6>
+							<p>Description Lorem ipsum </p>
+							<ul>
+								<li>Price: <span>$110</span> </li><b>|</b>
+								<li>Country: <span>US</span></li>
+							</ul>
+						</div>
+						<div class="clearfix"> </div>
+					</div>
+					<div class="latest-grid">
+						<div class="news">
+							<a href="single.html"><img class="img-responsive" src="assets/frontend/img/site/si.jpg" title="name" alt=""></a>
+						</div>
+						<div class="news-in">
+							<h6><a href="single.html">Product name here</a></h6>
+							<p>Description Lorem ipsum</p>
+							<ul>
+								<li>Price: <span>$110</span> </li><b>|</b>
+								<li>Country: <span>US</span></li>
+							</ul>
+						</div>
+						<div class="clearfix"> </div>
+					</div>
+
 				</div>
-			</div>
-			<!---->
+			<div class="clearfix"> </div>
 		</div>
+			<!---->
 		<div class="clearfix"> </div>
 		<div class="line-box line-box-cat vip" id="tabView">
 			<div class="cate-box">
@@ -274,7 +347,127 @@
 					<div style="color: rgba(0, 0, 0, 0.7); font-family: UICTFontTextStyleBody; font-size: 17px;"><span style="background-color:rgba(255, 255, 255, 0)">*️ Tel:&nbsp;<a href="tel:0985101026" style="color: rgb(17, 85, 204);" target="_blank">0985101026</a>&nbsp; -&nbsp;<a href="tel:0903187988" style="color: rgb(17, 85, 204);" target="_blank">0903187988</a>&nbsp;</span></div>
 
 				</div>
+				<div class="col-md-12 splq">
+					<h3>Sản Phẩm Liên Quan</h3>
+					<ul id="flexiselDemo1">
+						<li class="col-md-2"><div class="bottom-grid-top1">
+								<a href="single.html"><img class="img-responsive" src="http://www.shopcuatui.com.vn/uploads/thumbs/product/1508/300x300/1519467031-img7090.jpg" alt="" >
+									<div class="five five1">
+										<h6 >-50%</h6>
+									</div>
+									<div class="pre1">
+										<p>Pure Slim Xe</p>
+										<span>$60.00</span>
+										<div class="clearfix"> </div>
+									</div></a>
 
+
+							</div></li>
+						<li ><div class="bottom-grid-top1">
+								<a href="single.html">
+									<img class="img-responsive" src="http://www.shopcuatui.com.vn/uploads/thumbs/product/1508/300x300/1519467031-img7090.jpg" alt="" >
+									<div class="five">
+										<h6 >-50%</h6>
+									</div>
+									<div class="pre1">
+										<p>Pure Slim Xe</p>
+										<span>$60.00</span>
+										<div class="clearfix"> </div>
+									</div>
+								</a>
+
+
+							</div></li>
+						<li ><div class="bottom-grid-top1">
+								<a href="single.html"><img class="img-responsive"  src="http://www.shopcuatui.com.vn/uploads/thumbs/product/1508/300x300/1519467031-img7090.jpg" alt="" >
+									<div class="five five1">
+										<h6 >-50%</h6>
+									</div>
+									<div class="pre1">
+										<p>Pure Slim Xe</p>
+										<span>$60.00</span>
+										<div class="clearfix"> </div>
+									</div></a>
+
+
+							</div></li>
+						<li><div class="bottom-grid-top1">
+								<a href="single.html"><img class="img-responsive" src="http://www.shopcuatui.com.vn/uploads/thumbs/product/1508/300x300/1519467031-img7090.jpg" alt="" >
+									<div class="five five1">
+										<h6 >-50%</h6>
+									</div>
+									<div class="pre1">
+										<p>Pure Slim Xe</p>
+										<span>$60.00</span>
+										<div class="clearfix"> </div>
+									</div></a>
+							</div></li>
+						<li ><div class="bottom-grid-top1">
+								<a href="single.html"><img class="img-responsive" src="http://www.shopcuatui.com.vn/uploads/thumbs/product/1508/300x300/1519467031-img7090.jpg" alt="" >
+									<div class="five five1">
+										<h6 >-50%</h6>
+									</div>
+									<div class="pre1">
+										<p>Pure Slim Xe</p>
+										<span>$60.00</span>
+										<div class="clearfix"> </div>
+									</div></a>
+
+
+							</div></li>
+						<li><div class="bottom-grid-top1">
+								<a href="single.html"><img class="img-responsive" src="http://www.shopcuatui.com.vn/uploads/thumbs/product/1508/300x300/1519467031-img7090.jpg" alt="" >
+									<div class="five five1">
+										<h6 >-50%</h6>
+									</div>
+									<div class="pre1">
+										<p>Pure Slim Xe</p>
+										<span>$60.00</span>
+										<div class="clearfix"> </div>
+									</div></a>
+
+
+							</div></li>
+						<script>
+                            var width = $('body').width();
+                            if (width <= 768){
+                                $(".bottom-grid-top1").each(function () {
+                                    $(this).removeAttr("style");
+                                    $(".bottom-grid-top1 img").css("margin","0 auto")
+                                });
+                            };
+
+						</script>
+					</ul>
+				</div>
+				<script type="text/javascript">
+                    $(window).load(function() {
+                        $("#flexiselDemo1").flexisel({
+                            visibleItems: 5,
+                            animationSpeed: 1000,
+                            autoPlay: true,
+                            autoPlaySpeed: 3000,
+                            pauseOnHover: true,
+                            enableResponsiveBreakpoints: true,
+                            responsiveBreakpoints: {
+                                portrait: {
+                                    changePoint:480,
+                                    visibleItems: 1
+                                },
+                                landscape: {
+                                    changePoint:640,
+                                    visibleItems: 2
+                                },
+                                tablet: {
+                                    changePoint:768,
+                                    visibleItems: 3
+                                }
+                            }
+                        });
+
+                    });
+				</script>
+				<script type="text/javascript" src="assets/frontend/js/jquery.flexisel.js"></script>
 			</div>
 			<script>
                 $("#div-content-article img, #div-content-article iframe").each(function () {
@@ -284,204 +477,7 @@
                     $(this).addClass("img-responsive")
                 });
 			</script>
-
 		</div>
 	</div>
-
-	<div class="content">
-		<div class="content-bottom store">
-			<h3>Sản Phẩm Liên Quan</h3>
-			<div class="bottom-grid">
-				<div class="col-md-3 store-top">
-					<div class="bottom-grid-top">
-						<a href="single.html"><img class="img-responsive" src="images/sh.png" alt="" >
-							<div class="five">
-								<h6 class="one">-50%</h6>
-							</div>
-							<div class="pre">
-								<p>Pure Slim Xe</p>
-								<span>$60.00</span>
-								<div class="clearfix"> </div>
-							</div>
-						</a>
-					</div>
-				</div>
-				<div class="col-md-3 store-top">
-					<div class="bottom-grid-top">
-						<a href="single.html"><img class="img-responsive" src="images/sh1.png" alt="" >
-							<div class="five">
-								<h6 >-50%</h6>
-							</div>
-							<div class="pre">
-								<p>Pure Slim Xe</p>
-								<span>$60.00</span>
-								<div class="clearfix"> </div>
-							</div></a>
-
-
-					</div>
-				</div>
-				<div class="col-md-3 store-top">
-					<div class="bottom-grid-top">
-						<a href="single.html"><img class="img-responsive" src="images/sh2.png" alt="" >
-							<div class="five">
-								<h6 class="one1">-50%</h6>
-							</div>
-							<div class="pre">
-								<p>Pure Slim Xe</p>
-								<span>$60.00</span>
-								<div class="clearfix"> </div>
-							</div></a>
-
-
-					</div>
-				</div>
-				<div class="col-md-3 store-top">
-					<div class="bottom-grid-top">
-						<a href="single.html"><img class="img-responsive" src="images/sh3.png" alt="" >
-							<div class="five">
-								<h6 >-50%</h6>
-							</div>
-							<div class="pre">
-								<p>Pure Slim Xe</p>
-								<span>$60.00</span>
-								<div class="clearfix"> </div>
-							</div></a>
-
-
-					</div>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-			<div class="bottom-grid">
-				<div class="col-md-3 store-top">
-					<div class="bottom-grid-top">
-						<a href="single.html"><img class="img-responsive" src="images/sh4.png" alt="" >
-							<div class="five">
-								<h6 >-50%</h6>
-							</div>
-							<div class="pre">
-								<p>Pure Slim Xe</p>
-								<span>$60.00</span>
-								<div class="clearfix"> </div>
-							</div></a>
-
-
-					</div>
-				</div>
-				<div class="col-md-3 store-top">
-					<div class="bottom-grid-top">
-						<a href="single.html"><img class="img-responsive" src="images/sh5.png" alt="" >
-							<div class="five">
-								<h6 class="one">-50%</h6>
-							</div>
-							<div class="pre">
-								<p>Pure Slim Xe</p>
-								<span>$60.00</span>
-								<div class="clearfix"> </div>
-							</div></a>
-
-
-					</div>
-				</div>
-				<div class="col-md-3 store-top">
-					<div class="bottom-grid-top">
-						<a href="single.html"><img class="img-responsive" src="images/sh.png" alt="" >
-							<div class="five">
-								<h6 >-50%</h6>
-							</div>
-							<div class="pre">
-								<p>Pure Slim Xe</p>
-								<span>$60.00</span>
-								<div class="clearfix"> </div>
-							</div></a>
-
-
-					</div>
-				</div>
-				<div class="col-md-3 store-top">
-					<div class="bottom-grid-top">
-						<a href="single.html"><img class="img-responsive" src="images/sh1.png" alt="" >
-							<div class="five">
-								<h6 class="one1">-50%</h6>
-							</div>
-							<div class="pre">
-								<p>Pure Slim Xe</p>
-								<span>$60.00</span>
-								<div class="clearfix"> </div>
-							</div></a>
-
-
-					</div>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-			<div class="bottom-grid">
-				<div class="col-md-3 store-top">
-					<div class="bottom-grid-top">
-						<a href="single.html"><img class="img-responsive" src="images/sh2.png" alt="" >
-							<div class="five">
-								<h6 >-50%</h6>
-							</div>
-							<div class="pre">
-								<p>Pure Slim Xe</p>
-								<span>$60.00</span>
-								<div class="clearfix"> </div>
-							</div></a>
-
-
-					</div>
-				</div>
-				<div class="col-md-3 store-top">
-					<div class="bottom-grid-top">
-						<a href="single.html"><img class="img-responsive" src="images/sh3.png" alt="" >
-							<div class="five">
-								<h6 class="one">-50%</h6>
-							</div>
-							<div class="pre">
-								<p>Pure Slim Xe</p>
-								<span>$60.00</span>
-								<div class="clearfix"> </div>
-							</div></a>
-
-
-					</div>
-				</div>
-				<div class="col-md-3 store-top">
-					<div class="bottom-grid-top">
-						<a href="single.html"><img class="img-responsive" src="images/sh4.png" alt="" >
-							<div class="five">
-								<h6 class="one1">-50%</h6>
-							</div>
-							<div class="pre">
-								<p>Pure Slim Xe</p>
-								<span>$60.00</span>
-								<div class="clearfix"> </div>
-							</div></a>
-
-
-					</div>
-				</div>
-				<div class="col-md-3 store-top">
-					<div class="bottom-grid-top">
-						<a href="single.html"><img class="img-responsive" src="images/sh5.png" alt="" >
-							<div class="five">
-								<h6 class="one">-50%</h6>
-							</div>
-							<div class="pre">
-								<p>Pure Slim Xe</p>
-								<span>$60.00</span>
-								<div class="clearfix"> </div>
-							</div></a>
-
-
-					</div>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>
-
-
-	</div>
-
+	<div class="clearfix"></div>
 @endsection
