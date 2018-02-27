@@ -11,52 +11,29 @@
             </div>
         </div>
         <div class="col-md-3 col-md">
-            <div class="content-bottom-grid">
-                <h3>Best Sellers</h3>
-                <div class="latest-grid">
-                    <div class="news">
-                        <a href="single.html"><img class="img-responsive" src="assets/frontend/img/site/si.jpg" title="name" alt=""></a>
+
+                <div class="bottom-grid-top2 col-md-12 img1">
+                        <a href="single.html">
+                            <img class="img-responsive" src="http://www.shopcuatui.com.vn/uploads/thumbs/product/1508/300x300/1519467031-img7090.jpg" alt="" > </a>
+                            <div class="pre2">
+                                <p>Pure Slim Xe</p>
+                                <span>$60.00</span>
+                                <div class="clearfix"> </div>
+                            </div>
+
                     </div>
-                    <div class="news-in">
-                        <h6><a href="single.html">Product name here</a></h6>
-                        <p>Description Lorem ipsum </p>
-                        <ul>
-                            <li>Price: <span>$110</span> </li><b>|</b>
-                            <li>Country: <span>US</span></li>
-                        </ul>
-                    </div>
-                    <div class="clearfix"> </div>
+                <div class="bottom-grid-top2 col-md-12">
+                        <a href="single.html"><img class="img-responsive"  src="http://www.shopcuatui.com.vn/uploads/thumbs/product/1508/300x300/1519467031-img7090.jpg" alt="" > </a>
+                            <div class="pre2" >
+                                <p>Pure Slim Xe</p>
+                                <span>$60.00</span>
+                                <div class="clearfix"> </div>
+                            </div>
+
                 </div>
-                <div class="latest-grid">
-                    <div class="news">
-                        <a href="single.html"><img class="img-responsive" src="assets/frontend/img/site/si1.jpg" title="name" alt=""></a>
-                    </div>
-                    <div class="news-in">
-                        <h6><a href="single.html">Product name here</a></h6>
-                        <p>Description Lorem ipsum </p>
-                        <ul>
-                            <li>Price: <span>$110</span> </li><b>|</b>
-                            <li>Country: <span>US</span></li>
-                        </ul>
-                    </div>
-                    <div class="clearfix"> </div>
-                </div>
-                <div class="latest-grid">
-                    <div class="news">
-                        <a href="single.html"><img class="img-responsive" src="assets/frontend/img/site/si.jpg" title="name" alt=""></a>
-                    </div>
-                    <div class="news-in">
-                        <h6><a href="single.html">Product name here</a></h6>
-                        <p>Description Lorem ipsum</p>
-                        <ul>
-                            <li>Price: <span>$110</span> </li><b>|</b>
-                            <li>Country: <span>US</span></li>
-                        </ul>
-                    </div>
-                    <div class="clearfix"> </div>
-                </div>
-            </div>
-        </div></div>
+
+        </div>
+    </div>
         <div class="clearfix"></div>
         <div class="content">
             <div class="content-bottom store">

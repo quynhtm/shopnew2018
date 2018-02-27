@@ -383,3 +383,32 @@ table.list-pay tr td {
     padding: 0.85em 0 0;
     text-align: center;
 }
+.bottom-grid-top2{
+    min-height: 70px;
+    position: relative;
+    margin: 10% 0;
+}
+
+.pre2{
+    position: absolute;
+    top:0%;
+    right: 0%;
+    display: none;
+    z-index: 2;
+}
+.bottom-grid-top2:hover .pre2{
+    display: block;
+}
+.pre2 p{
+    color:#818181;
+    font-size: 1.1em;
+    font-weight: 700;
+}
+
+.pre2 span{
+    /*float:right;*/
+    color:#f02b63;
+    font-size:1.3em;
+    font-weight: 700;
+    display:block;
+}
